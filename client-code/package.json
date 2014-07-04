@@ -1,0 +1,12 @@
+{
+  "name": "parse-saveAll-bug",
+  "version": "1.0.0",
+  "description": "reproduce bug",
+  "main": "bug.js",
+  "author": "Pulkit Singhal",
+  "dependencies": {
+    "underscore": "*",
+    "parse": "*",
+    "nconf": "~0.6.9"
+  }
+}
